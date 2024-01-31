@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KshithijKeshav
 - 👀 I’m interested in ...Algorithms
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Data Structures,python,java
 - 💞️ I’m looking to collaborate on ...Anything Intresting
 - 📫 How to reach me ...Email:kshithijkeshav@gmail.com
 
